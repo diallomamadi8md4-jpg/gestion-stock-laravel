@@ -17,6 +17,22 @@ Application disposant d'une interface de gestion avec un menu de navigation perm
 
 *Les captures d'écran seront ajoutées prochainement.*
 
+### 🏠 Page d'accueil
+
+![Accueil BAROUELI-TECH](screenshots/accueil.png)
+
+### 📦 Gestion des produits
+
+![Liste des produits](screenshots/produits.png)
+
+### 📦 Gestion des stocks
+
+![Liste des stocks](screenshots/stocks.png)
+
+
+
+
+
 ---
 
 ## 🚀 Fonctionnalités principales
